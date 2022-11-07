@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution page](https://www.frontendmentor.io/solutions/order-summary-component-using-flexbox-sOUO8tGWjY)
-- Live Site URL: [Github Pages](https://justcandi.github.io/Order-Summary-Flexbox/)
+- Solution URL: [Frontend Mentor Solution page](https://www.frontendmentor.io/solutions/four-card-feature-section-hI5qT8mktA)
+- Live Site URL: [Github Pages](https://justcandi.github.io/FrontendMentor-Four-card-feature-section/)
 
 ## My process
 
